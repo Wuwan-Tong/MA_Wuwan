@@ -3,6 +3,9 @@
 You can install the environment by requirements.txt  
 We use CUDA 12.1, pytorch 2.3.0, and python 3.8  
 
+#### datasets
+You can download MS COCO at https://cocodataset.org/#download, we use coco2014 version, and download Flickr30k at https://rwth-aachen.sciebo.de/s/Gq2RdccXQysBuUN  
+
 #### Checkpoints  
 checkpoints of fine-tuning can be downloaded from:  
 MS COCO: https://rwth-aachen.sciebo.de/s/eACUUDOzBFtVm74  
