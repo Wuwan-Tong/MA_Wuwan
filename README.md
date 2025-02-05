@@ -1,4 +1,4 @@
-### This is the code of my Master Thesis System Design and Performance Evaluation for Semantic Communication with Large Language Model
+### This is the code of my Master Thesis: System Design and Performance Evaluation for Semantic Communication with Large Language Model
 You can install the environment by requirements.txt  
 We use CUDA 12.1, pytorch 2.3.0, and python 3.8  
 
