@@ -9,7 +9,8 @@ MS COCO: https://rwth-aachen.sciebo.de/s/eACUUDOzBFtVm74
 Flickr30k: https://rwth-aachen.sciebo.de/s/2OHVBKvgB1WXpox  
 you can put the checkpoints at root/coco_ckpt and root/flickr_ckpt  
 #### Run  
-you can run the code at the files in root/run and switch datasets by importing various dataclasses in root/configs/dada  
+you can run the code at the files in root/run and switch datasets by importing various dataclasses in root/configs/data  
+finetuning is mainly based on the code from OpenCLIP (root/training), you can run root/training/ft_main to start finetuning  
 
 
  
