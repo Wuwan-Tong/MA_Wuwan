@@ -1,0 +1,1000 @@
+COCO_val2014_000000000042.jpg++gloves gloves gloves gloves gloves gloves gloves gloves gloves gloves gloves
+COCO_val2014_000000000974.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000001393.jpg++red red red red red red red red red red red red
+COCO_val2014_000000001626.jpg++crying crying crying crying crying crying crying crying crying
+COCO_val2014_000000002142.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000002690.jpg++swimmers swimmers swimmers swimmers swimmers swimmers swimmers swimmers
+COCO_val2014_000000002890.jpg++hill hill hill hill hill hill hill hill hill hill hill
+COCO_val2014_000000003590.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000004246.jpg++women women women women women women women women women women women women women
+COCO_val2014_000000004972.jpg++RED RED RED RED RED RED RED RED RED RED RED
+COCO_val2014_000000005758.jpg++VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO VIDEO
+COCO_val2014_000000006861.jpg++red red red red red red red red red red
+COCO_val2014_000000007278.jpg++there there there there there there there there there there there
+COCO_val2014_000000007784.jpg++small small small small small small small small small small
+COCO_val2014_000000008277.jpg++apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000008803.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000009170.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000009647.jpg++women women women women women women women women women women
+COCO_val2014_000000009807.jpg++red red red red red red red red red red
+COCO_val2014_000000010290.jpg++red red red red red red red red red red
+COCO_val2014_000000010707.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000011081.jpg++green green green green green green green green green green
+COCO_val2014_000000011184.jpg++two two two two two two two two two
+COCO_val2014_000000012085.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000012817.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000013490.jpg++red red red red red red red red red
+COCO_val2014_000000014175.jpg++man man man man man man man man
+COCO_val2014_000000014473.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000015050.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000016005.jpg++man man man man man man man man man man
+COCO_val2014_000000016599.jpg++bottom bottom bottom bottom bottom bottom bottom bottom bottom bottom
+COCO_val2014_000000017115.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000017905.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000018480.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000018975.jpg++small small small small small small small small small small small small
+COCO_val2014_000000019455.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000020254.jpg++man man man man man man man man man man man man man man man
+COCO_val2014_000000020470.jpg++Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000021202.jpg++Dogs Dogs Dogs Dogs Dogs Dogs Dogs Dogs
+COCO_val2014_000000021864.jpg++swimmers swimmers swimmers swimmers swimmers swimmers swimmers swimmers swimmers
+COCO_val2014_000000022167.jpg++flowers flowers flowers flowers flowers flowers flowers flowers flowers flowers
+COCO_val2014_000000022759.jpg++dog dog dog dog dog dog dog dog
+COCO_val2014_000000023117.jpg++women women women women women women women women women women women women
+COCO_val2014_000000023840.jpg++apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000024734.jpg++red red red red red red red red red red red
+COCO_val2014_000000025286.jpg++red red red red red red red red
+COCO_val2014_000000025603.jpg++boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000026051.jpg++women women women women women women women women women women women women women
+COCO_val2014_000000026665.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000027065.jpg++kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen
+COCO_val2014_000000027585.jpg++one one one one one one one
+COCO_val2014_000000028114.jpg++car car car car car car car car car car
+COCO_val2014_000000028452.jpg++closed closed closed closed closed closed closed closed
+COCO_val2014_000000028655.jpg++bottom bottom bottom bottom bottom bottom bottom bottom bottom
+COCO_val2014_000000029045.jpg++standing standing standing standing standing standing standing
+COCO_val2014_000000029472.jpg++A A A A A A A A A A A A A A A A
+COCO_val2014_000000030455.jpg++bed bed bed bed bed bed bed bed bed bed bed
+COCO_val2014_000000030685.jpg++footway footway footway footway footway footway footway footway
+COCO_val2014_000000031000.jpg++apples apples apples apples apples apples apples apples
+COCO_val2014_000000031390.jpg++women women women women women women women women
+COCO_val2014_000000031965.jpg++tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000032570.jpg++red red red red red red red red red red red
+COCO_val2014_000000032901.jpg++women women women women women women women women women women
+COCO_val2014_000000033368.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000033753.jpg++bottom bottom bottom bottom bottom bottom bottom bottom bottom bottom bottom bottom
+COCO_val2014_000000033904.jpg++dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000034180.jpg++apple apple apple apple apple apple apple apple
+COCO_val2014_000000034811.jpg++kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen
+COCO_val2014_000000035195.jpg++red red red red red red red red red
+COCO_val2014_000000035825.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000036478.jpg++noon noon noon noon noon noon noon noon noon noon noon noon noon
+COCO_val2014_000000037705.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000038332.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000038938.jpg++dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000039202.jpg++boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000039606.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000039914.jpg++man man man man man man man man man man man
+COCO_val2014_000000040946.jpg++tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000041867.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000042201.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000042970.jpg++tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000043657.jpg++cat cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000044520.jpg++drive drive drive drive drive drive drive drive drive drive
+COCO_val2014_000000045057.jpg++apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000045434.jpg++tree tree tree tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000045644.jpg++fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits
+COCO_val2014_000000046077.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000046433.jpg++girls girls girls girls girls girls girls girls girls girls
+COCO_val2014_000000046847.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000047651.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000047938.jpg++stands stands stands stands stands stands stands stands stands
+COCO_val2014_000000048546.jpg++walkers walkers walkers walkers walkers walkers walkers walkers walkers
+COCO_val2014_000000048924.jpg++car car car car car car car car car car
+COCO_val2014_000000049731.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000050159.jpg++water water water water water water water water water water water water water water water water water water water
+COCO_val2014_000000050411.jpg++running running running running running running running running running running running running
+COCO_val2014_000000051250.jpg++red red red red red red red red red
+COCO_val2014_000000051773.jpg++man man man man man man man man man
+COCO_val2014_000000052282.jpg++TV TV TV TV TV TV TV TV TV TV TV TV TV
+COCO_val2014_000000053454.jpg++purple purple purple purple purple purple purple purple purple purple purple purple
+COCO_val2014_000000054340.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000054593.jpg++tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000055002.jpg++kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen
+COCO_val2014_000000055466.jpg++Gods Gods Gods Gods Gods Gods Gods Gods
+COCO_val2014_000000056248.jpg++car car car car car car car car car car car
+COCO_val2014_000000056580.jpg++bike bike bike bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000057286.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000058329.jpg++green green green green green green green green green green green green green green green
+COCO_val2014_000000058569.jpg++cars cars cars cars cars cars cars cars
+COCO_val2014_000000059614.jpg++apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000060340.jpg++building building building building building building building building building building building building building building building
+COCO_val2014_000000061207.jpg++large large large large large large large large large large large
+COCO_val2014_000000062230.jpg++tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000063602.jpg++red red red red red red red red red red
+COCO_val2014_000000064196.jpg++man man man man man man man man
+COCO_val2014_000000065258.jpg++beach beach beach beach beach beach beach beach beach
+COCO_val2014_000000066271.jpg++green green green green green green green green green green green green green
+COCO_val2014_000000066685.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000067422.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000067686.jpg++apples apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000068203.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000068745.jpg++pencil pencil pencil pencil pencil pencil pencil pencil pencil pencil
+COCO_val2014_000000069236.jpg++flower flower flower flower flower flower flower flower flower flower
+COCO_val2014_000000069873.jpg++young young young young young young young young young young young young young
+COCO_val2014_000000070280.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000071090.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000071929.jpg++red red red red red red red red red red red red red
+COCO_val2014_000000072368.jpg++girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000073256.jpg++green green green green green green green green green green green
+COCO_val2014_000000074181.jpg++sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000074478.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000075055.jpg++man man man man man man man man man
+COCO_val2014_000000075595.jpg++young young young young young young young young young young young young
+COCO_val2014_000000076155.jpg++black black black black black black black black black black
+COCO_val2014_000000076765.jpg++man man man man man man man man man man
+COCO_val2014_000000077402.jpg++red red red red red red red red red
+COCO_val2014_000000077980.jpg++ice ice ice ice ice ice ice ice ice ice ice
+COCO_val2014_000000078707.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000079369.jpg++water water water water water water water water water
+COCO_val2014_000000079860.jpg++desk desk desk desk desk desk desk desk desk desk desk desk desk desk
+COCO_val2014_000000080117.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000080659.jpg++bicycle bicycle bicycle bicycle bicycle bicycle bicycle bicycle bicycle bicycle
+COCO_val2014_000000081661.jpg++TV TV TV TV TV TV TV TV
+COCO_val2014_000000082229.jpg++computer computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000082921.jpg++traffic traffic traffic traffic traffic traffic traffic traffic traffic
+COCO_val2014_000000083217.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000084000.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000084362.jpg++child child child child child child child child child
+COCO_val2014_000000084859.jpg++red red red red red red red red red
+COCO_val2014_000000085183.jpg++red red red red red red red red red red red red red red red
+COCO_val2014_000000085562.jpg++colored colored colored colored colored colored colored colored colored colored colored colored
+COCO_val2014_000000086202.jpg++man man man man man man man man
+COCO_val2014_000000086839.jpg++green green green green green green green green green
+COCO_val2014_000000087470.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000087912.jpg++car car car car car car car car car car car car
+COCO_val2014_000000088269.jpg++ice ice ice ice ice ice ice ice ice ice ice
+COCO_val2014_000000088652.jpg++road road road road road road road road
+COCO_val2014_000000089293.jpg++hill hill hill hill hill hill hill hill
+COCO_val2014_000000089638.jpg++green green green green green green green green
+COCO_val2014_000000090365.jpg++mouse mouse mouse mouse mouse mouse mouse mouse mouse
+COCO_val2014_000000091045.jpg++women women women women women women women women women women
+COCO_val2014_000000091469.jpg++man man man man man man man man man man man man
+COCO_val2014_000000092416.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000093156.jpg++old old old old old old old old old old old old old old old old old old old old old old old old old old old old
+COCO_val2014_000000093771.jpg++banana banana banana banana banana banana banana banana banana banana banana banana
+COCO_val2014_000000094025.jpg++road road road road road road road road road road
+COCO_val2014_000000094306.jpg++red red red red red red red red red red red red
+COCO_val2014_000000095161.jpg++red red red red red red red red red red red
+COCO_val2014_000000095786.jpg++ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000096638.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000097146.jpg++bright bright bright bright bright bright bright bright
+COCO_val2014_000000097667.jpg++soap soap soap soap soap soap soap soap
+COCO_val2014_000000098003.jpg++cheese cheese cheese cheese cheese cheese cheese cheese
+COCO_val2014_000000098444.jpg++inside inside inside inside inside inside inside inside inside
+COCO_val2014_000000099794.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000100098.jpg++black black black black black black black black black black black
+COCO_val2014_000000100661.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000101491.jpg++quiet quiet quiet quiet quiet quiet quiet quiet quiet
+COCO_val2014_000000102589.jpg++eggs eggs eggs eggs eggs eggs eggs eggs
+COCO_val2014_000000103272.jpg++box box box box box box box box
+COCO_val2014_000000103584.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000105052.jpg++tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000105751.jpg++man man man man man man man man man man man
+COCO_val2014_000000106331.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000107108.jpg++box box box box box box box box
+COCO_val2014_000000107541.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000108338.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000109316.jpg++man man man man man man man man man man
+COCO_val2014_000000109939.jpg++blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000110435.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000110857.jpg++red red red red red red red red red red red red red
+COCO_val2014_000000111367.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000112394.jpg++red red red red red red red red red red red red
+COCO_val2014_000000112904.jpg++desk desk desk desk desk desk desk desk
+COCO_val2014_000000113128.jpg++flowers flowers flowers flowers flowers flowers flowers flowers flowers
+COCO_val2014_000000113890.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000114348.jpg++tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000114744.jpg++car car car car car car car car car car car
+COCO_val2014_000000115162.jpg++red red red red red red red red red red red red red red red red red red
+COCO_val2014_000000116017.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000116370.jpg++bike bike bike bike bike bike bike bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000117061.jpg++jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket jacket
+COCO_val2014_000000117525.jpg++man man man man man man man man man man man
+COCO_val2014_000000118134.jpg++small small small small small small small small small small small small
+COCO_val2014_000000119134.jpg++man man man man man man man man man man man
+COCO_val2014_000000120007.jpg++banana banana banana banana banana banana banana banana banana
+COCO_val2014_000000120767.jpg++stand stand stand stand stand stand stand stand stand stand stand stand stand
+COCO_val2014_000000121196.jpg++women women women women women women women women women women women women women women
+COCO_val2014_000000121876.jpg++red red red red red red red red red red red
+COCO_val2014_000000122252.jpg++bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000122747.jpg++red red red red red red red red red red
+COCO_val2014_000000123321.jpg++apple apple apple apple apple apple apple apple
+COCO_val2014_000000124185.jpg++man man man man man man man man man man man man man man man
+COCO_val2014_000000124930.jpg++eats eats eats eats eats eats eats eats eats
+COCO_val2014_000000125404.jpg++white white white white white white white white white
+COCO_val2014_000000125983.jpg++man man man man man man man man man
+COCO_val2014_000000126257.jpg++Big Big Big Big Big Big Big Big
+COCO_val2014_000000126766.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000127517.jpg++standing standing standing standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000127842.jpg++large large large large large large large large large large large
+COCO_val2014_000000128528.jpg++blue blue blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000129339.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000129645.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000129982.jpg++rain rain rain rain rain rain rain rain rain rain
+COCO_val2014_000000130437.jpg++Dogs Dogs Dogs Dogs Dogs Dogs Dogs Dogs Dogs Dogs Dogs
+COCO_val2014_000000130826.jpg++women women women women women women women women women women women
+COCO_val2014_000000131207.jpg++cats cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000132272.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000132776.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000133470.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000133867.jpg++dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000134503.jpg++surfing surfing surfing surfing surfing surfing surfing surfing
+COCO_val2014_000000134722.jpg++park park park park park park park park
+COCO_val2014_000000135281.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000136433.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000136681.jpg++white white white white white white white white white white white white
+COCO_val2014_000000137412.jpg++dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000137950.jpg++buildings buildings buildings buildings buildings buildings buildings buildings buildings buildings
+COCO_val2014_000000138477.jpg++red red red red red red red red red red
+COCO_val2014_000000138821.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000139094.jpg++red red red red red red red red red red red
+COCO_val2014_000000140021.jpg++chair chair chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000140686.jpg++red red red red red red red red red
+COCO_val2014_000000141256.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000141849.jpg++table table table table table table table table table table
+COCO_val2014_000000142246.jpg++ten ten ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000142891.jpg++dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000143346.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000144122.jpg++purple purple purple purple purple purple purple purple
+COCO_val2014_000000144715.jpg++indoor indoor indoor indoor indoor indoor indoor indoor
+COCO_val2014_000000145048.jpg++red red red red red red red red red
+COCO_val2014_000000145666.jpg++apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000145873.jpg++small small small small small small small small small
+COCO_val2014_000000146767.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000147042.jpg++chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs chairs
+COCO_val2014_000000147415.jpg++man man man man man man man man man man
+COCO_val2014_000000147725.jpg++bike bike bike bike bike bike bike bike
+COCO_val2014_000000148444.jpg++chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate
+COCO_val2014_000000148910.jpg++car car car car car car car car car
+COCO_val2014_000000149304.jpg++bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom
+COCO_val2014_000000149500.jpg++young young young young young young young young young young
+COCO_val2014_000000150224.jpg++forest forest forest forest forest forest forest forest
+COCO_val2014_000000151081.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000151832.jpg++large large large large large large large large large
+COCO_val2014_000000152258.jpg++bike bike bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000152388.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000152598.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000153782.jpg++tree tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000154145.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000154880.jpg++Red Red Red Red Red Red Red Red Red Red Red
+COCO_val2014_000000155736.jpg++A A A A A A A A A A
+COCO_val2014_000000156292.jpg++A A A A A A A A A A A A A A
+COCO_val2014_000000156858.jpg++A A A A A A A A A A
+COCO_val2014_000000157184.jpg++A A A A A A A A A
+COCO_val2014_000000157789.jpg++a a a a a a a a a a
+COCO_val2014_000000158292.jpg++A A A A A A A A A
+COCO_val2014_000000159044.jpg++a a a a a a a a a a a a
+COCO_val2014_000000159311.jpg++A A A A A A A A A A A
+COCO_val2014_000000160195.jpg++There There There There There There There There There There There
+COCO_val2014_000000161112.jpg++red red red red red red red red red red red red red red red
+COCO_val2014_000000161231.jpg++short short short short short short short short short
+COCO_val2014_000000161736.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000162393.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000162503.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000163118.jpg++ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000163852.jpg++fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits
+COCO_val2014_000000164835.jpg++street street street street street street street street street street
+COCO_val2014_000000165547.jpg++studying studying studying studying studying studying studying studying studying studying
+COCO_val2014_000000166478.jpg++old old old old old old old old old old old
+COCO_val2014_000000167510.jpg++road road road road road road road road road road road
+COCO_val2014_000000167810.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000168337.jpg++blue blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000168991.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000169757.jpg++computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000170211.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000170893.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000171595.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000172285.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000172648.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000172935.jpg++water water water water water water water water water
+COCO_val2014_000000173391.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000174511.jpg++mouse mouse mouse mouse mouse mouse mouse mouse mouse mouse
+COCO_val2014_000000175387.jpg++Bathroom Bathroom Bathroom Bathroom Bathroom Bathroom Bathroom Bathroom
+COCO_val2014_000000175864.jpg++basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000176466.jpg++boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000177102.jpg++apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000177489.jpg++standing standing standing standing standing standing standing standing
+COCO_val2014_000000177861.jpg++sunny sunny sunny sunny sunny sunny sunny sunny sunny
+COCO_val2014_000000178748.jpg++water water water water water water water water water water
+COCO_val2014_000000179114.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000179765.jpg++red red red red red red red red red red
+COCO_val2014_000000180495.jpg++bowls bowls bowls bowls bowls bowls bowls bowls bowls
+COCO_val2014_000000181572.jpg++new new new new new new new new new new
+COCO_val2014_000000181859.jpg++dog dog dog dog dog dog dog dog
+COCO_val2014_000000182245.jpg++standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000182441.jpg++cats cats cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000183014.jpg++water water water water water water water water
+COCO_val2014_000000183786.jpg++red red red red red red red red
+COCO_val2014_000000184384.jpg++apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000184791.jpg++vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable vegetable
+COCO_val2014_000000185476.jpg++sit sit sit sit sit sit sit sit sit sit
+COCO_val2014_000000185789.jpg++green green green green green green green green green green
+COCO_val2014_000000186282.jpg++darkly darkly darkly darkly darkly darkly darkly darkly darkly darkly darkly darkly
+COCO_val2014_000000186797.jpg++red red red red red red red red red red red red
+COCO_val2014_000000187329.jpg++standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000188173.jpg++cat cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000188852.jpg++tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000189744.jpg++room room room room room room room room room room room
+COCO_val2014_000000190033.jpg++apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000190595.jpg++girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000191069.jpg++top top top top top top top top top top top top
+COCO_val2014_000000191846.jpg++girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000192306.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000192782.jpg++man man man man man man man man man
+COCO_val2014_000000193021.jpg++table table table table table table table table table table table table table table table table table table table
+COCO_val2014_000000193881.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000194411.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000194756.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000195406.jpg++green green green green green green green green green
+COCO_val2014_000000195673.jpg++rainy rainy rainy rainy rainy rainy rainy rainy
+COCO_val2014_000000196009.jpg++red red red red red red red red red red red red red red red red
+COCO_val2014_000000196839.jpg++black black black black black black black black black black black black black black
+COCO_val2014_000000197458.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000198043.jpg++lake lake lake lake lake lake lake lake lake lake
+COCO_val2014_000000199122.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000199319.jpg++apples apples apples apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000199449.jpg++foods foods foods foods foods foods foods foods foods foods
+COCO_val2014_000000199940.jpg++red red red red red red red red red red
+COCO_val2014_000000200274.jpg++read read read read read read read read read
+COCO_val2014_000000200717.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000201163.jpg++women women women women women women women women
+COCO_val2014_000000201918.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000202489.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000203003.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000203734.jpg++old old old old old old old old old old old old
+COCO_val2014_000000204943.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000205601.jpg++cat cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000205863.jpg++chair chair chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000206770.jpg++tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000207151.jpg++meat meat meat meat meat meat meat meat meat meat
+COCO_val2014_000000207585.jpg++table table table table table table table table table table table
+COCO_val2014_000000208283.jpg++tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000208623.jpg++man man man man man man man man man man man man
+COCO_val2014_000000208871.jpg++young young young young young young young young young young young young young
+COCO_val2014_000000209480.jpg++red red red red red red red red red red red
+COCO_val2014_000000209808.jpg++bowl bowl bowl bowl bowl bowl bowl bowl bowl bowl
+COCO_val2014_000000210012.jpg++man man man man man man man man man man
+COCO_val2014_000000210372.jpg++box box box box box box box box box box box box box box box box box
+COCO_val2014_000000211119.jpg++standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000211246.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000211653.jpg++computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000212285.jpg++room room room room room room room room room
+COCO_val2014_000000212688.jpg++red red red red red red red red red red red red
+COCO_val2014_000000213338.jpg++inside inside inside inside inside inside inside inside inside
+COCO_val2014_000000214184.jpg++green green green green green green green green green green green green
+COCO_val2014_000000214664.jpg++badly badly badly badly badly badly badly badly badly
+COCO_val2014_000000215356.jpg++tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000215608.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000215867.jpg++tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000216363.jpg++car car car car car car car car car car car car car car
+COCO_val2014_000000217071.jpg++red red red red red red red red red red red
+COCO_val2014_000000217323.jpg++table table table table table table table table table table
+COCO_val2014_000000217957.jpg++screen screen screen screen screen screen screen screen screen
+COCO_val2014_000000219135.jpg++juice juice juice juice juice juice juice juice juice juice juice juice juice
+COCO_val2014_000000219567.jpg++black black black black black black black black black black
+COCO_val2014_000000219792.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000220187.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000220446.jpg++bowl bowl bowl bowl bowl bowl bowl bowl
+COCO_val2014_000000221213.jpg++bus bus bus bus bus bus bus bus
+COCO_val2014_000000221869.jpg++full full full full full full full full full full
+COCO_val2014_000000222559.jpg++trees trees trees trees trees trees trees trees
+COCO_val2014_000000222879.jpg++water water water water water water water water water water water
+COCO_val2014_000000223183.jpg++screen screen screen screen screen screen screen screen screen screen
+COCO_val2014_000000223738.jpg++red red red red red red red red red
+COCO_val2014_000000224530.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000224675.jpg++man man man man man man man man man man man man
+COCO_val2014_000000224974.jpg++dog dog dog dog dog dog dog dog
+COCO_val2014_000000225495.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000225792.jpg++bike bike bike bike bike bike bike bike
+COCO_val2014_000000226368.jpg++red red red red red red red red red red red red
+COCO_val2014_000000227164.jpg++new new new new new new new new new
+COCO_val2014_000000227523.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000227884.jpg++ball ball ball ball ball ball ball ball ball ball
+COCO_val2014_000000228981.jpg++table table table table table table table table table table
+COCO_val2014_000000229529.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000229968.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000230598.jpg++chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate
+COCO_val2014_000000230936.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000231685.jpg++cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000232173.jpg++stand stand stand stand stand stand stand stand stand stand
+COCO_val2014_000000233042.jpg++women women women women women women women women women women women women
+COCO_val2014_000000233370.jpg++man man man man man man man man man
+COCO_val2014_000000233915.jpg++man man man man man man man man man man
+COCO_val2014_000000234153.jpg++river river river river river river river river
+COCO_val2014_000000234677.jpg++table table table table table table table table table table table table
+COCO_val2014_000000235597.jpg++women women women women women women women women women
+COCO_val2014_000000235836.jpg++girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000236505.jpg++bird bird bird bird bird bird bird bird
+COCO_val2014_000000237399.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000237767.jpg++computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000238355.jpg++red red red red red red red red red red
+COCO_val2014_000000238989.jpg++apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000239943.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000240637.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000241373.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000242365.jpg++man man man man man man man man man man
+COCO_val2014_000000243213.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000244215.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000244737.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000246348.jpg++empty empty empty empty empty empty empty empty empty
+COCO_val2014_000000246876.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000247782.jpg++young young young young young young young young young young young
+COCO_val2014_000000248224.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000248774.jpg++black black black black black black black black black black black
+COCO_val2014_000000249506.jpg++desk desk desk desk desk desk desk desk desk desk
+COCO_val2014_000000249953.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000250344.jpg++men men men men men men men men men men men men men
+COCO_val2014_000000251379.jpg++sits sits sits sits sits sits sits sits sits sits
+COCO_val2014_000000251888.jpg++mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain mountain
+COCO_val2014_000000252220.jpg++female female female female female female female female
+COCO_val2014_000000252716.jpg++bike bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000253755.jpg++river river river river river river river river river river river
+COCO_val2014_000000254493.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000254929.jpg++sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich
+COCO_val2014_000000255315.jpg++son son son son son son son son son
+COCO_val2014_000000255662.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000256192.jpg++red red red red red red red red red red red red red red red red red red red red red
+COCO_val2014_000000256569.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000256941.jpg++black black black black black black black black black black black
+COCO_val2014_000000257624.jpg++boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000258089.jpg++red red red red red red red red red red red red red red red red red red red red red red
+COCO_val2014_000000258628.jpg++girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000259097.jpg++green green green green green green green green green green green green green green
+COCO_val2014_000000259854.jpg++stop stop stop stop stop stop stop stop stop stop
+COCO_val2014_000000260966.jpg++building building building building building building building building building building building
+COCO_val2014_000000261721.jpg++green green green green green green green green green
+COCO_val2014_000000262148.jpg++chair chair chair chair chair chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000262391.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000263011.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000263346.jpg++standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000263866.jpg++bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000265552.jpg++men men men men men men men men men men
+COCO_val2014_000000266082.jpg++blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000266920.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000267408.jpg++computer computer computer computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000267932.jpg++apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000268363.jpg++white white white white white white white white white white white white
+COCO_val2014_000000268770.jpg++park park park park park park park park park park
+COCO_val2014_000000269254.jpg++bike bike bike bike bike bike bike bike
+COCO_val2014_000000269689.jpg++women women women women women women women women women women
+COCO_val2014_000000270505.jpg++dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000271240.jpg++road road road road road road road road road road road
+COCO_val2014_000000271607.jpg++girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000272212.jpg++red red red red red red red red red red
+COCO_val2014_000000273188.jpg++green green green green green green green green green green
+COCO_val2014_000000273930.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000274494.jpg++red red red red red red red red red
+COCO_val2014_000000275657.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000276055.jpg++man man man man man man man man man man
+COCO_val2014_000000276434.jpg++chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate
+COCO_val2014_000000277239.jpg++computers computers computers computers computers computers computers computers computers computers
+COCO_val2014_000000277694.jpg++tree tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000278601.jpg++red red red red red red red red red red red
+COCO_val2014_000000279149.jpg++boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000279621.jpg++red red red red red red red red red red
+COCO_val2014_000000280007.jpg++small small small small small small small small small small small small small small
+COCO_val2014_000000280734.jpg++standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000281019.jpg++table table table table table table table table
+COCO_val2014_000000281409.jpg++jumped jumped jumped jumped jumped jumped jumped jumped jumped jumped jumped jumped
+COCO_val2014_000000281782.jpg++red red red red red red red red red red red red red red red
+COCO_val2014_000000282098.jpg++screens screens screens screens screens screens screens screens
+COCO_val2014_000000282298.jpg++summer summer summer summer summer summer summer summer summer summer summer summer summer
+COCO_val2014_000000283060.jpg++chair chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000283698.jpg++men men men men men men men men
+COCO_val2014_000000284605.jpg++dog dog dog dog dog dog dog dog
+COCO_val2014_000000285597.jpg++eggs eggs eggs eggs eggs eggs eggs eggs eggs
+COCO_val2014_000000286010.jpg++soup soup soup soup soup soup soup soup soup soup
+COCO_val2014_000000286760.jpg++fork fork fork fork fork fork fork fork fork fork fork fork fork
+COCO_val2014_000000287725.jpg++bus bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000288491.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000289392.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000289883.jpg++red red red red red red red red red red red red red
+COCO_val2014_000000290843.jpg++man man man man man man man man man man man
+COCO_val2014_000000291962.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000292478.jpg++girls girls girls girls girls girls girls girls girls girls
+COCO_val2014_000000292804.jpg++man man man man man man man man man man man man man man man
+COCO_val2014_000000293611.jpg++table table table table table table table table table table
+COCO_val2014_000000294053.jpg++standing standing standing standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000294763.jpg++living living living living living living living living living living
+COCO_val2014_000000294908.jpg++boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000295340.jpg++empty empty empty empty empty empty empty empty empty empty
+COCO_val2014_000000296231.jpg++apples apples apples apples apples apples apples apples
+COCO_val2014_000000296524.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000297074.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000298252.jpg++eggs eggs eggs eggs eggs eggs eggs eggs eggs eggs eggs eggs
+COCO_val2014_000000298461.jpg++bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom
+COCO_val2014_000000298978.jpg++man man man man man man man man man man man
+COCO_val2014_000000299319.jpg++men men men men men men men men
+COCO_val2014_000000299601.jpg++table table table table table table table table table
+COCO_val2014_000000299946.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000300066.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000300509.jpg++white white white white white white white white white
+COCO_val2014_000000301333.jpg++bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000301837.jpg++bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom
+COCO_val2014_000000302260.jpg++red red red red red red red red red red red red red red
+COCO_val2014_000000302767.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000303267.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000304147.jpg++red red red red red red red red red red red
+COCO_val2014_000000304834.jpg++boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000305609.jpg++chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000306664.jpg++red red red red red red red red red red red red
+COCO_val2014_000000307262.jpg++apple apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000307790.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000308430.jpg++fruit fruit fruit fruit fruit fruit fruit fruit fruit
+COCO_val2014_000000308894.jpg++bus bus bus bus bus bus bus bus
+COCO_val2014_000000309678.jpg++banana banana banana banana banana banana banana banana banana
+COCO_val2014_000000310611.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000311394.jpg++mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth mouth
+COCO_val2014_000000311904.jpg++old old old old old old old old old
+COCO_val2014_000000312343.jpg++blue blue blue blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000313055.jpg++water water water water water water water water water
+COCO_val2014_000000313372.jpg++baseball baseball baseball baseball baseball baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000314294.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000314836.jpg++new new new new new new new new new new
+COCO_val2014_000000315128.jpg++tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000315434.jpg++green green green green green green green green green green green green green green green green
+COCO_val2014_000000315742.jpg++standing standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000315909.jpg++car car car car car car car car car car
+COCO_val2014_000000316323.jpg++red red red red red red red red red
+COCO_val2014_000000317028.jpg++fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit
+COCO_val2014_000000317725.jpg++chocolate chocolate chocolate chocolate chocolate chocolate chocolate chocolate
+COCO_val2014_000000318130.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000318573.jpg++tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000319073.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000319931.jpg++ten ten ten ten ten ten ten ten
+COCO_val2014_000000320480.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000321195.jpg++bus bus bus bus bus bus bus bus
+COCO_val2014_000000321647.jpg++card card card card card card card card card card
+COCO_val2014_000000322175.jpg++vegetables vegetables vegetables vegetables vegetables vegetables vegetables
+COCO_val2014_000000322586.jpg++RED RED RED RED RED RED RED RED RED
+COCO_val2014_000000322955.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000323639.jpg++boy boy boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000324500.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000325027.jpg++egg egg egg egg egg egg egg egg egg egg egg egg
+COCO_val2014_000000325557.jpg++red red red red red red red red
+COCO_val2014_000000325991.jpg++old old old old old old old old old old old
+COCO_val2014_000000326462.jpg++Blue Blue Blue Blue Blue Blue Blue Blue Blue Blue Blue
+COCO_val2014_000000327073.jpg++baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000327605.jpg++man man man man man man man man man man man man man man
+COCO_val2014_000000328111.jpg++buses buses buses buses buses buses buses buses buses buses buses buses
+COCO_val2014_000000328452.jpg++kitchen kitchen kitchen kitchen kitchen kitchen kitchen kitchen
+COCO_val2014_000000329219.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000330051.jpg++red red red red red red red red red red red
+COCO_val2014_000000330699.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000331727.jpg++bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000332455.jpg++blue blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000333101.jpg++boy boy boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000333434.jpg++colorful colorful colorful colorful colorful colorful colorful colorful colorful colorful
+COCO_val2014_000000333845.jpg++vegetables vegetables vegetables vegetables vegetables vegetables vegetables vegetables
+COCO_val2014_000000334371.jpg++ten ten ten ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000335099.jpg++cats cats cats cats cats cats cats cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000335810.jpg++red red red red red red red red red red red red red red red red red
+COCO_val2014_000000336493.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000337139.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000337705.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000338703.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000339678.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000340472.jpg++beach beach beach beach beach beach beach beach beach beach beach
+COCO_val2014_000000341010.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000341603.jpg++man man man man man man man man man
+COCO_val2014_000000342394.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000343394.jpg++boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000343954.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000344909.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000345139.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000346011.jpg++         
+COCO_val2014_000000346788.jpg++man man man man man man man man man
+COCO_val2014_000000347236.jpg++red red red red red red red red red red red red
+COCO_val2014_000000347879.jpg++red red red red red red red red red
+COCO_val2014_000000348669.jpg++red red red red red red red red red red
+COCO_val2014_000000348877.jpg++big big big big big big big big
+COCO_val2014_000000349184.jpg++man man man man man man man man man man man man
+COCO_val2014_000000349804.jpg++Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000350262.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000350959.jpg++tree tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000351183.jpg++red red red red red red red red red red red
+COCO_val2014_000000352027.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000352694.jpg++blue blue blue blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000353001.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000353695.jpg++black black black black black black black black black black
+COCO_val2014_000000354527.jpg++bowl bowl bowl bowl bowl bowl bowl bowl bowl bowl
+COCO_val2014_000000354736.jpg++old old old old old old old old old old old old old
+COCO_val2014_000000355228.jpg++black black black black black black black black black black black
+COCO_val2014_000000355453.jpg++girl girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000356500.jpg++rain rain rain rain rain rain rain rain rain
+COCO_val2014_000000357096.jpg++table table table table table table table table table
+COCO_val2014_000000357478.jpg++rain rain rain rain rain rain rain rain rain rain rain rain
+COCO_val2014_000000358055.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000358342.jpg++forest forest forest forest forest forest forest forest forest
+COCO_val2014_000000358982.jpg++glass glass glass glass glass glass glass glass glass glass
+COCO_val2014_000000359465.jpg++swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer
+COCO_val2014_000000359855.jpg++new new new new new new new new new new
+COCO_val2014_000000360318.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000360678.jpg++computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000360960.jpg++running running running running running running running running running running running running
+COCO_val2014_000000361400.jpg++red red red red red red red red
+COCO_val2014_000000361586.jpg++train train train train train train train train train
+COCO_val2014_000000361860.jpg++red red red red red red red red
+COCO_val2014_000000362159.jpg++trees trees trees trees trees trees trees trees trees trees trees
+COCO_val2014_000000363100.jpg++screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens screens
+COCO_val2014_000000364113.jpg++bikes bikes bikes bikes bikes bikes bikes bikes bikes bikes
+COCO_val2014_000000365094.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000365745.jpg++red red red red red red red red red red
+COCO_val2014_000000366111.jpg++red red red red red red red red red red red red
+COCO_val2014_000000366830.jpg++white white white white white white white white white white
+COCO_val2014_000000367579.jpg++city city city city city city city city city
+COCO_val2014_000000368220.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000368994.jpg++diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond diamond
+COCO_val2014_000000369771.jpg++soup soup soup soup soup soup soup soup soup soup
+COCO_val2014_000000370175.jpg++cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000371004.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000371395.jpg++ten ten ten ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000372191.jpg++old old old old old old old old old old old
+COCO_val2014_000000372577.jpg++baseball baseball baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000373333.jpg++car car car car car car car car car car
+COCO_val2014_000000374369.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000375232.jpg++chair chair chair chair chair chair chair chair chair chair chair chair
+COCO_val2014_000000375440.jpg++swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer
+COCO_val2014_000000375915.jpg++milk milk milk milk milk milk milk milk milk milk milk milk milk milk
+COCO_val2014_000000376322.jpg++book book book book book book book book book book book
+COCO_val2014_000000376900.jpg++throw throw throw throw throw throw throw throw throw
+COCO_val2014_000000377314.jpg++bowl bowl bowl bowl bowl bowl bowl bowl bowl bowl
+COCO_val2014_000000377946.jpg++red red red red red red red red red
+COCO_val2014_000000378657.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000378765.jpg++white white white white white white white white white white white
+COCO_val2014_000000379108.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000379529.jpg++new new new new new new new new new
+COCO_val2014_000000380162.jpg++box box box box box box box box box
+COCO_val2014_000000380854.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000381360.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000382214.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000383211.jpg++Man Man Man Man Man Man Man Man
+COCO_val2014_000000383676.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000384723.jpg++girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000385378.jpg++buses buses buses buses buses buses buses buses buses buses buses buses buses
+COCO_val2014_000000386164.jpg++table table table table table table table table table
+COCO_val2014_000000386764.jpg++girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000388027.jpg++table table table table table table table table table table table table
+COCO_val2014_000000388528.jpg++closed closed closed closed closed closed closed closed closed closed
+COCO_val2014_000000388770.jpg++cats cats cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000389464.jpg++girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000390759.jpg++ten ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000391214.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000391940.jpg++man man man man man man man man man man
+COCO_val2014_000000393004.jpg++men men men men men men men men men
+COCO_val2014_000000393338.jpg++blue blue blue blue blue blue blue blue
+COCO_val2014_000000393869.jpg++bus bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000395124.jpg++table table table table table table table
+COCO_val2014_000000395621.jpg++women women women women women women women women women women
+COCO_val2014_000000396350.jpg++girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000396779.jpg++sleeping sleeping sleeping sleeping sleeping sleeping sleeping sleeping sleeping sleeping
+COCO_val2014_000000398005.jpg++cats cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000398810.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000399284.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000399851.jpg++forks forks forks forks forks forks forks forks forks forks forks
+COCO_val2014_000000400317.jpg++baseball baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000401249.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000401860.jpg++Fruits Fruits Fruits Fruits Fruits Fruits Fruits Fruits Fruits
+COCO_val2014_000000402330.jpg++blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000402788.jpg++orange orange orange orange orange orange orange orange orange orange orange
+COCO_val2014_000000403421.jpg++cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000403937.jpg++women women women women women women women women women women
+COCO_val2014_000000404461.jpg++man man man man man man man man man man
+COCO_val2014_000000404886.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000405432.jpg++red red red red red red red red
+COCO_val2014_000000405811.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000406329.jpg++red red red red red red red red red red red red
+COCO_val2014_000000406899.jpg++standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000407260.jpg++man man man man man man man man man man man man man man man
+COCO_val2014_000000407915.jpg++black black black black black black black black
+COCO_val2014_000000408327.jpg++men men men men men men men men men men men men men men men
+COCO_val2014_000000408757.jpg++park park park park park park park park
+COCO_val2014_000000408950.jpg++blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000409217.jpg++fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits
+COCO_val2014_000000410101.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000410597.jpg++ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000410855.jpg++empty empty empty empty empty empty empty empty empty empty
+COCO_val2014_000000411093.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000411666.jpg++bag bag bag bag bag bag bag
+COCO_val2014_000000411968.jpg++dirty dirty dirty dirty dirty dirty dirty dirty
+COCO_val2014_000000412464.jpg++bowl bowl bowl bowl bowl bowl bowl bowl bowl bowl
+COCO_val2014_000000412767.jpg++egg egg egg egg egg egg egg egg egg
+COCO_val2014_000000413096.jpg++bus bus bus bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000413955.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000414374.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000415020.jpg++man man man man man man man man man man man man man man
+COCO_val2014_000000415741.jpg++bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom bathroom
+COCO_val2014_000000416184.jpg++living living living living living living living living living living living living living
+COCO_val2014_000000416746.jpg++basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball basketball
+COCO_val2014_000000417284.jpg++people people people people people people people people people people people people people
+COCO_val2014_000000418143.jpg++ten ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000419228.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000419860.jpg++apple apple apple apple apple apple apple apple
+COCO_val2014_000000420313.jpg++apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000420669.jpg++man man man man man man man man man man man
+COCO_val2014_000000421195.jpg++red red red red red red red red red red red
+COCO_val2014_000000421979.jpg++tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000422221.jpg++black black black black black black black black black
+COCO_val2014_000000422998.jpg++cake cake cake cake cake cake cake cake cake
+COCO_val2014_000000423576.jpg++milk milk milk milk milk milk milk milk milk milk
+COCO_val2014_000000424174.jpg++grapes grapes grapes grapes grapes grapes grapes grapes grapes grapes
+COCO_val2014_000000424585.jpg++car car car car car car car car car car
+COCO_val2014_000000424998.jpg++buses buses buses buses buses buses buses buses buses buses buses buses
+COCO_val2014_000000425522.jpg++outside outside outside outside outside outside outside outside outside outside outside outside outside
+COCO_val2014_000000425906.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000426578.jpg++umbrella umbrella umbrella umbrella umbrella umbrella umbrella umbrella umbrella
+COCO_val2014_000000427401.jpg++man man man man man man man man man
+COCO_val2014_000000428064.jpg++boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000429108.jpg++female female female female female female female female female
+COCO_val2014_000000429623.jpg++apple apple apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000430160.jpg++eggs eggs eggs eggs eggs eggs eggs eggs eggs eggs
+COCO_val2014_000000430856.jpg++cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000431570.jpg++pink pink pink pink pink pink pink pink pink
+COCO_val2014_000000431996.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000432547.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000432799.jpg++egg egg egg egg egg egg egg egg egg egg egg egg egg egg
+COCO_val2014_000000433625.jpg++table table table table table table table table
+COCO_val2014_000000433924.jpg++man man man man man man man man man
+COCO_val2014_000000434510.jpg++Swimmer Swimmer Swimmer Swimmer Swimmer Swimmer Swimmer Swimmer Swimmer Swimmer
+COCO_val2014_000000435037.jpg++fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit fruit
+COCO_val2014_000000435922.jpg++jumping jumping jumping jumping jumping jumping jumping jumping jumping
+COCO_val2014_000000436348.jpg++tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000436676.jpg++dog dog dog dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000437325.jpg++man man man man man man man man man man man man
+COCO_val2014_000000438226.jpg++hamburger hamburger hamburger hamburger hamburger hamburger hamburger hamburger hamburger hamburger
+COCO_val2014_000000438721.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000438985.jpg++table table table table table table table table table table
+COCO_val2014_000000439326.jpg++red red red red red red red red red red red red red red red
+COCO_val2014_000000439774.jpg++boys boys boys boys boys boys boys boys boys boys boys boys
+COCO_val2014_000000440514.jpg++tree tree tree tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000441147.jpg++side side side side side side side side side side side
+COCO_val2014_000000441472.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000442214.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000442861.jpg++women women women women women women women women women women women
+COCO_val2014_000000443583.jpg++dog dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000444302.jpg++55 55 55 55 55 55 55 55 55 55 55
+COCO_val2014_000000445041.jpg++ocean ocean ocean ocean ocean ocean ocean ocean
+COCO_val2014_000000445908.jpg++man man man man man man man man man man man man man
+COCO_val2014_000000447080.jpg++small small small small small small small small small small small
+COCO_val2014_000000447548.jpg++black black black black black black black black black
+COCO_val2014_000000448365.jpg++bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000448787.jpg++ocean ocean ocean ocean ocean ocean ocean ocean ocean ocean
+COCO_val2014_000000449114.jpg++baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000449403.jpg++buildings buildings buildings buildings buildings buildings buildings buildings buildings buildings
+COCO_val2014_000000449872.jpg++buses buses buses buses buses buses buses buses buses buses buses
+COCO_val2014_000000450399.jpg++woman woman woman woman woman woman woman woman
+COCO_val2014_000000450762.jpg++princess princess princess princess princess princess princess princess princess
+COCO_val2014_000000451431.jpg++man man man man man man man man
+COCO_val2014_000000451896.jpg++car car car car car car car car car car car
+COCO_val2014_000000452113.jpg++apples apples apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000452724.jpg++five five five five five five five five
+COCO_val2014_000000453283.jpg++wine wine wine wine wine wine wine wine wine wine wine wine wine wine wine
+COCO_val2014_000000453649.jpg++cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000454195.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000454607.jpg++man man man man man man man man man
+COCO_val2014_000000454978.jpg++bike bike bike bike bike bike bike bike bike bike bike bike bike bike
+COCO_val2014_000000455290.jpg++cat cat cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000455698.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000456192.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000456690.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000457718.jpg++crying crying crying crying crying crying crying crying crying crying crying crying crying
+COCO_val2014_000000458137.jpg++television television television television television television television television
+COCO_val2014_000000458560.jpg++park park park park park park park park park park
+COCO_val2014_000000459141.jpg++horse horse horse horse horse horse horse horse horse
+COCO_val2014_000000459757.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000460361.jpg++man man man man man man man man man man man
+COCO_val2014_000000460505.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000461378.jpg++sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich
+COCO_val2014_000000462213.jpg++male male male male male male male male male male
+COCO_val2014_000000462755.jpg++blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000463084.jpg++car car car car car car car car car car car
+COCO_val2014_000000463325.jpg++man man man man man man man man man man man
+COCO_val2014_000000463610.jpg++black black black black black black black black black black black
+COCO_val2014_000000464092.jpg++trees trees trees trees trees trees trees trees trees trees
+COCO_val2014_000000465357.jpg++banana banana banana banana banana banana banana banana
+COCO_val2014_000000465550.jpg++road road road road road road road road road
+COCO_val2014_000000465911.jpg++girl girl girl girl girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000466392.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000466986.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000467197.jpg++dog dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000467578.jpg++apples apples apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000468302.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000468933.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000469085.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000469793.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000470366.jpg++fifty fifty fifty fifty fifty fifty fifty fifty fifty
+COCO_val2014_000000470984.jpg++Woman Woman Woman Woman Woman Woman Woman Woman Woman Woman
+COCO_val2014_000000471566.jpg++White White White White White White White White White
+COCO_val2014_000000472101.jpg++buildings buildings buildings buildings buildings buildings buildings buildings buildings buildings
+COCO_val2014_000000472415.jpg++books books books books books books books books
+COCO_val2014_000000472833.jpg++water water water water water water water water
+COCO_val2014_000000473237.jpg++boy boy boy boy boy boy boy boy
+COCO_val2014_000000473728.jpg++left left left left left left left left left left left left
+COCO_val2014_000000474608.jpg++phone phone phone phone phone phone phone phone phone phone
+COCO_val2014_000000475053.jpg++red red red red red red red red red red red
+COCO_val2014_000000475667.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000476215.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000476754.jpg++screen screen screen screen screen screen screen screen screen
+COCO_val2014_000000477202.jpg++Cats Cats Cats Cats Cats Cats Cats
+COCO_val2014_000000477924.jpg++boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000478621.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000479213.jpg++men men men men men men men men men
+COCO_val2014_000000479948.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000480643.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000481252.jpg++foods foods foods foods foods foods foods foods foods
+COCO_val2014_000000482021.jpg++boys boys boys boys boys boys boys boys boys boys boys boys
+COCO_val2014_000000482562.jpg++black black black black black black black black
+COCO_val2014_000000483149.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000483722.jpg++red red red red red red red red red
+COCO_val2014_000000484145.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000484415.jpg++computer computer computer computer computer computer computer computer computer computer computer
+COCO_val2014_000000484695.jpg++black black black black black black black black black black black
+COCO_val2014_000000486046.jpg++cat cat cat cat cat cat cat
+COCO_val2014_000000487217.jpg++bikes bikes bikes bikes bikes bikes bikes bikes bikes
+COCO_val2014_000000487450.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000487898.jpg++boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000488539.jpg++table table table table table table table table table
+COCO_val2014_000000489624.jpg++black black black black black black black black
+COCO_val2014_000000490337.jpg++white white white white white white white white white white
+COCO_val2014_000000490688.jpg++banana banana banana banana banana banana banana banana banana banana
+COCO_val2014_000000491102.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000491793.jpg++empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty
+COCO_val2014_000000492067.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000492506.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000493284.jpg++dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000494439.jpg++bus bus bus bus bus bus bus bus
+COCO_val2014_000000494957.jpg++train train train train train train train train train train train train train train
+COCO_val2014_000000495377.jpg++inside inside inside inside inside inside inside inside
+COCO_val2014_000000496525.jpg++back back back back back back back back back back
+COCO_val2014_000000497014.jpg++cat cat cat cat cat cat cat cat
+COCO_val2014_000000497438.jpg++playing playing playing playing playing playing playing playing playing playing
+COCO_val2014_000000498583.jpg++red red red red red red red red red red
+COCO_val2014_000000499200.jpg++swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer
+COCO_val2014_000000499755.jpg++man man man man man man man man man
+COCO_val2014_000000500703.jpg++bus bus bus bus bus bus bus bus
+COCO_val2014_000000501122.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000501652.jpg++apples apples apples apples apples apples apples apples
+COCO_val2014_000000502671.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000502959.jpg++milk milk milk milk milk milk milk milk milk milk
+COCO_val2014_000000503470.jpg++lake lake lake lake lake lake lake lake lake lake lake lake lake
+COCO_val2014_000000504074.jpg++standing standing standing standing standing standing standing standing standing standing standing standing
+COCO_val2014_000000504341.jpg++bench bench bench bench bench bench bench bench bench bench
+COCO_val2014_000000504811.jpg++tree tree tree tree tree tree tree tree tree tree
+COCO_val2014_000000505636.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000506357.jpg++bananas bananas bananas bananas bananas bananas bananas bananas bananas bananas
+COCO_val2014_000000506577.jpg++black black black black black black black black black black black black black black
+COCO_val2014_000000507352.jpg++table table table table table table table table table table
+COCO_val2014_000000508586.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000509656.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000511145.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000512467.jpg++red red red red red red red red red red red red
+COCO_val2014_000000512785.jpg++tables tables tables tables tables tables tables tables tables tables
+COCO_val2014_000000513073.jpg++hand hand hand hand hand hand hand hand hand hand hand
+COCO_val2014_000000514147.jpg++green green green green green green green green green green green green green green green
+COCO_val2014_000000514787.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000515531.jpg++small small small small small small small small
+COCO_val2014_000000515760.jpg++table table table table table table table table table table table
+COCO_val2014_000000516408.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000516786.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000517629.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000518375.jpg++green green green green green green green green
+COCO_val2014_000000518873.jpg++living living living living living living living living
+COCO_val2014_000000519555.jpg++red red red red red red red red red
+COCO_val2014_000000519764.jpg++Dog Dog Dog Dog Dog Dog Dog Dog
+COCO_val2014_000000520109.jpg++tables tables tables tables tables tables tables tables tables
+COCO_val2014_000000520530.jpg++baseball baseball baseball baseball baseball baseball baseball baseball baseball
+COCO_val2014_000000521131.jpg++swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer
+COCO_val2014_000000522273.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000522909.jpg++dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000524002.jpg++cat cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000524638.jpg++girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000525373.jpg++boys boys boys boys boys boys boys
+COCO_val2014_000000525646.jpg++sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich
+COCO_val2014_000000526030.jpg++table table table table table table table table table table table
+COCO_val2014_000000526319.jpg++fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits fruits
+COCO_val2014_000000526645.jpg++A A A A A A A A
+COCO_val2014_000000527164.jpg++street street street street street street street street street street
+COCO_val2014_000000527535.jpg++desk desk desk desk desk desk desk desk desk desk
+COCO_val2014_000000527846.jpg++meat meat meat meat meat meat meat meat meat
+COCO_val2014_000000528575.jpg++girl girl girl girl girl girl girl girl girl girl
+COCO_val2014_000000528962.jpg++car car car car car car car car car car car car car
+COCO_val2014_000000529626.jpg++dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000529950.jpg++road road road road road road road road road road
+COCO_val2014_000000530317.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000531264.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000531739.jpg++woman woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000532295.jpg++blue blue blue blue blue blue blue blue blue blue blue
+COCO_val2014_000000532695.jpg++new new new new new new new new new
+COCO_val2014_000000533281.jpg++short short short short short short short short short short short short short short short short
+COCO_val2014_000000534121.jpg++table table table table table table table table table
+COCO_val2014_000000534733.jpg++table table table table table table table table
+COCO_val2014_000000535262.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000535602.jpg++closed closed closed closed closed closed closed closed
+COCO_val2014_000000536183.jpg++eating eating eating eating eating eating eating eating eating
+COCO_val2014_000000536725.jpg++woman woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000537589.jpg++bus bus bus bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000538122.jpg++swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer swimmer
+COCO_val2014_000000538976.jpg++large large large large large large large large
+COCO_val2014_000000539678.jpg++playing playing playing playing playing playing playing playing playing playing
+COCO_val2014_000000540187.jpg++car car car car car car car car car
+COCO_val2014_000000540774.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000541474.jpg++white white white white white white white white white white
+COCO_val2014_000000541965.jpg++outdoor outdoor outdoor outdoor outdoor outdoor outdoor outdoor outdoor outdoor outdoor
+COCO_val2014_000000542388.jpg++WOMAN WOMAN WOMAN WOMAN WOMAN WOMAN WOMAN WOMAN WOMAN
+COCO_val2014_000000543065.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000544444.jpg++runs runs runs runs runs runs runs
+COCO_val2014_000000545039.jpg++sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich sandwich
+COCO_val2014_000000545597.jpg++ten ten ten ten ten ten ten ten
+COCO_val2014_000000545867.jpg++cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000546222.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000546854.jpg++apple apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000547258.jpg++flying flying flying flying flying flying flying flying flying
+COCO_val2014_000000548361.jpg++tennis tennis tennis tennis tennis tennis tennis tennis tennis tennis
+COCO_val2014_000000549012.jpg++pizza pizza pizza pizza pizza pizza pizza pizza pizza pizza
+COCO_val2014_000000550051.jpg++beach beach beach beach beach beach beach beach beach
+COCO_val2014_000000550422.jpg++cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000550707.jpg++men men men men men men men men men men men men men men
+COCO_val2014_000000551944.jpg++wet wet wet wet wet wet wet wet wet wet wet wet
+COCO_val2014_000000552564.jpg++candy candy candy candy candy candy candy candy candy
+COCO_val2014_000000553154.jpg++cats cats cats cats cats cats cats cats cats cats cats
+COCO_val2014_000000553547.jpg++dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs dogs
+COCO_val2014_000000553788.jpg++man man man man man man man man man man man man
+COCO_val2014_000000553990.jpg++old old old old old old old old old old old old
+COCO_val2014_000000554445.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000554859.jpg++full full full full full full full full full full
+COCO_val2014_000000556083.jpg++driver driver driver driver driver driver driver driver driver driver driver driver driver
+COCO_val2014_000000556349.jpg++car car car car car car car car car car
+COCO_val2014_000000556726.jpg++grape grape grape grape grape grape grape grape grape grape grape
+COCO_val2014_000000557501.jpg++bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom bedroom
+COCO_val2014_000000557998.jpg++cake cake cake cake cake cake cake cake cake cake cake cake
+COCO_val2014_000000558235.jpg++bus bus bus bus bus bus bus bus bus
+COCO_val2014_000000559047.jpg++dog dog dog dog dog dog dog dog dog dog
+COCO_val2014_000000559665.jpg++two two two two two two two two two
+COCO_val2014_000000560439.jpg++Ten Ten Ten Ten Ten Ten Ten Ten
+COCO_val2014_000000560804.jpg++ten ten ten ten ten ten ten ten ten ten
+COCO_val2014_000000561403.jpg++TV TV TV TV TV TV TV TV TV TV TV TV TV TV
+COCO_val2014_000000561928.jpg++car car car car car car car car car car car
+COCO_val2014_000000562345.jpg++man man man man man man man man man man man
+COCO_val2014_000000562448.jpg++car car car car car car car car
+COCO_val2014_000000562897.jpg++apple apple apple apple apple apple apple apple apple
+COCO_val2014_000000563927.jpg++red red red red red red red red red red red red red
+COCO_val2014_000000564382.jpg++banana banana banana banana banana banana banana banana banana banana banana banana banana banana
+COCO_val2014_000000565198.jpg++boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000566529.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000567013.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000567863.jpg++father father father father father father father father father
+COCO_val2014_000000568107.jpg++driver driver driver driver driver driver driver driver driver driver driver driver driver driver
+COCO_val2014_000000568337.jpg++red red red red red red red red
+COCO_val2014_000000569849.jpg++woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000570138.jpg++table table table table table table table table
+COCO_val2014_000000570688.jpg++black black black black black black black black black black black black
+COCO_val2014_000000571449.jpg++cat cat cat cat cat cat cat cat cat
+COCO_val2014_000000571804.jpg++Two Two Two Two Two Two Two Two Two
+COCO_val2014_000000572182.jpg++boy boy boy boy boy boy boy boy boy boy boy
+COCO_val2014_000000572427.jpg++green green green green green green green green green
+COCO_val2014_000000573067.jpg++red red red red red red red red red red
+COCO_val2014_000000573896.jpg++yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow yellow
+COCO_val2014_000000574316.jpg++sitting sitting sitting sitting sitting sitting sitting sitting sitting
+COCO_val2014_000000575018.jpg++table table table table table table table table
+COCO_val2014_000000575389.jpg++man man man man man man man man man man man
+COCO_val2014_000000575916.jpg++vegetables vegetables vegetables vegetables vegetables vegetables vegetables vegetables vegetables
+COCO_val2014_000000576463.jpg++woman woman woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000577024.jpg++blue blue blue blue blue blue blue blue
+COCO_val2014_000000577403.jpg++girls girls girls girls girls girls girls girls girls girls girls
+COCO_val2014_000000577866.jpg++new new new new new new new new new new new new new new
+COCO_val2014_000000578736.jpg++man man man man man man man man man man man man man
+COCO_val2014_000000579056.jpg++woman woman woman woman woman woman woman woman woman
+COCO_val2014_000000579759.jpg++cats cats cats cats cats cats cats cats
+COCO_val2014_000000580835.jpg++apples apples apples apples apples apples apples apples apples
+COCO_val2014_000000581332.jpg++Ten Ten Ten Ten Ten Ten Ten Ten Ten
